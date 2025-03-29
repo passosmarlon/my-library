@@ -1,4 +1,4 @@
-package com.example.model;
+package com.example.model.emprestimo;
 
 public enum Status {
     PENDENDE,
